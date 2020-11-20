@@ -12,8 +12,8 @@
     "require": {
         "php": ">=5.4.0",
         "doctrine/common": "2.5.*@dev",
-        "wasoftwareoficial/utils": ">=1.0.*@dev",
-        "wasoftwareoficial/nfephp-serialize": ">=1.0.*@dev"
+        "wasoftwareoficial/utils": "*",
+        "wasoftwareoficial/nfephp-serialize": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.0",
